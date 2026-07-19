@@ -1,0 +1,5 @@
+{
+"name":"security-demo-app","private":true,
+"scripts":{"dev":"vite","build":"vite build"},
+"dependencies":{"react":"^18.3.1","react-dom":"^18.3.1","react-router-dom":"^6.30.0","axios":"0.21.0","lodash":"4.17.19","minimist":"0.0.8","serialize-javascript":"2.1.1"},
+"devDependencies":{"vite":"^5.4.0","@vitejs/plugin-react":"^4.3.1"}}

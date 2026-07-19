@@ -1,0 +1,1 @@
+export default ()=>{const go=(u)=>window.location=u;return <div><button onClick={()=>go(prompt('URL'))}>Open Repo</button></div>}
